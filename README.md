@@ -70,25 +70,7 @@ The dataset contains professionally recorded speech samples from multiple actors
 
 #   Project Workflow
 
-Raw Audio Files
-     ↓
-Audio Preprocessing
-     ↓
-Feature Engineering 
-     ↓
-Feature Matrix Creation
-     ↓
-Train-Test Split
-     ↓
-Feature Scaling
-     ↓
-Random Forest Classifier
-     ↓
-Neural Network Classifier
-     ↓
-Model Evaluation
-     ↓
-Performance Comparison
+Raw Audio Files --> Audio Preprocessing --> Feature Engineering --> Feature Matrix Creation --> Train-Test Split --> Feature Scaling --> Random Forest Classifier --> Neural Network Classifier --> Model Evaluation --> Performance Comparison
 
 ---
 
