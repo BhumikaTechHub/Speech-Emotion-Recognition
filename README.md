@@ -1,3 +1,15 @@
+---
+title: Speech Emotion Recognition
+emoji: 🎙️
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.58.0"
+python_version: "3.11"
+app_file: app.py
+pinned: false
+---
+
 # Speech-Emotion-Recognition
 The objective of this project is to classify emotions from speech audio recordings using engineered audio features and evaluate model performance using machine learning and deep learning approaches.
 
