@@ -225,19 +225,7 @@ A fully connected neural network was developed using TensorFlow/Keras.
 
 ### Architecture
 
-Input Layer (43 Features)
-         ↓
-Dense Layer (256 Neurons, ReLU)
-         ↓
-Dropout (0.3)
-         ↓
-Dense Layer (128 Neurons, ReLU)
-         ↓
-Dropout (0.3)
-         ↓
-Dense Layer (64 Neurons, ReLU)
-         ↓
-Output Layer (8 Neurons, Softmax)
+Input Layer (43 Features) --> Dense Layer (256 Neurons, ReLU) --> Dropout (0.3) --> Dense Layer (128 Neurons, ReLU) --> Dropout (0.3) --> Dense Layer (64 Neurons, ReLU) --> Output Layer (8 Neurons, Softmax)
 
 
 ### Advantages
