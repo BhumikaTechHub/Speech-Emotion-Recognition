@@ -58,6 +58,9 @@ The project uses the Ryerson Audio-Visual Database of Emotional Speech and Song 
 
 The dataset contains professionally recorded speech samples from multiple actors expressing different emotions.
 
+
+DRIVE LINK --> https://drive.google.com/file/d/1rate9pdkItRM864du4DGXCVnlmX7j0H3/view?usp=sharing
+
 ### Emotion Classes
 
 | Emotion Code | Emotion   |
